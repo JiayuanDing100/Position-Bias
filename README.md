@@ -2,11 +2,10 @@
 
 This repository provides the dataset analyzed in our paper: " An Experimental Study of The Effects of Position Bias on Emotion Cause Extraction," Jiayuan Ding and Mayank Kejriwal. The first one is the original one while the second and third one without position bias are proposed by us.
 
-clause_keywords_emotion.txt (original one)：
+**clause_keywords_emotion.txt (original one)**：
 
 |Position|Percentage|
 |:----|:--|
-|QDST-rerank-doc BM25 retrieved TOP100|0.3847|
 Previous 10 Clauses |  0.04\% |
 Previous 9 Clauses |  0.04\% |
 Previous 7 Clauses |  0.13\% |
@@ -15,8 +14,8 @@ Previous 5 Clauses |  0.32\% |
 Previous 4 Clauses |  0.59\% |
 Previous 3 Clauses |  1.70\% |
 Previous 2 Clauses |  8.12\% |
-\bf Previous 1 Clauses | \bf 54.45\%|
-\bf In the same clauses | \bf 23.58\% |
+**Previous 1 Clauses** | **54.45\%** |
+**In the same clauses** |  **23.58\%** |
 Next 1 Clauses |  7.47\% |
 Next 2 Clauses |  2.21\% |
 Next 3 Clauses |  0.50\% |
