@@ -2,7 +2,7 @@
 
 This repository provides the dataset analyzed in our paper: " An Experimental Study of The Effects of Position Bias on Emotion Cause Extraction," Jiayuan Ding and Mayank Kejriwal. The first one is the original one while the second and third one without position bias are proposed by us.
 
-**clause_keywords_emotion.txt (original one)**：
+- **clause_keywords_emotion.txt (original one)**：
 
 |Position|Percentage|
 |:----|:--|
@@ -26,7 +26,7 @@ Next 8 Clauses |  0.09\% |
 Next 12 Clauses |  0.04\% |
 
 
-**clause_keywords_emotion_balance.txt (the size of dataset decreases)**:
+- **clause_keywords_emotion_balance.txt (the size of dataset decreases)**:
 |Position|Percentage|
 |:----|:--|
 Previous 10 Clauses |  0.13\% |
@@ -48,6 +48,27 @@ Next 7 Clauses |  0.13\% |
 Next 8 Clauses |  0.26\% |
 Next 12 Clauses |  0.13\% |
 
+- **clause_keywords_emotion_rewrite_regularized.txt (Based on the principle of not changing original semantic intention, we rewrite sentences and adjust the position of emotional cause clauses in order to make the position distribution more balanced. We keep the same size of this dataset with original one.)**:
+|Position|Percentage|
+|:----|:--|
+Previous 10 Clauses |  0.13\% |
+Previous 9 Clauses |  0.13\% |
+Previous 7 Clauses |  0.39\% |
+Previous 6 Clauses |  0.90\% |
+Previous 5 Clauses |  0.90\% |
+Previous 4 Clauses |  1.54\% |
+Previous 3 Clauses |  4.11\% |
+**Previous 2 Clauses** |  **18.87\%** |
+**Previous 1 Clauses** | **22.08\%** |
+**In the same clauses** |  **21.69\%** |
+**Next 1 Clauses** |  **20.41\%** |
+Next 2 Clauses |  6.16\% |
+Next 3 Clauses |  1.41\% |
+Next 4 Clauses |  0.51\% |
+Next 5 Clauses |  0.26\% |
+Next 7 Clauses |  0.13\% |
+Next 8 Clauses |  0.26\% |
+Next 12 Clauses |  0.13\% |
 
 
 clause_keywords_emotion_rewrite_regularized.txt (Based on the principle of not changing original semantic intention, we rewrite sentences and adjust the position of emotional cause clauses in order to make the position distribution more balanced. We keep the same size of this dataset with original one.):
