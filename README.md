@@ -80,4 +80,15 @@ Next 12 Clauses |  0.05\% |
 
 
 
-- ** NOTE **
+## Cite
+
+Please cite [our paper](https://arxiv.org/pdf/2007.15066.pdf) if you use this new dataset without position bias in your own work:
+
+```
+@article{ding2020experimental,
+  title={An experimental study of the effects of position bias on emotion causeextraction},
+  author={Ding, Jiayuan and Kejriwal, Mayank},
+  journal={arXiv preprint arXiv:2007.15066},
+  year={2020}
+}
+```
