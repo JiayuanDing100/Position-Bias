@@ -79,8 +79,7 @@ Next 8 Clauses |  0.10\% |
 Next 12 Clauses |  0.05\% |
 
 ## NOTE
-
-clause_keywords_emotion_rewrite_regularized.txt dataset is further proposed after paper submission, so the performance is not reported in the paper. We strongly recommend people to have a try on this new benchmark without position bias to verify your model.
+-- **clause_keywords_emotion_rewrite_regularized.txt dataset is further proposed after paper submission, so the performance is not reported in the paper. We strongly recommend people to have a try on this new benchmark without position bias to verify your model.**
 
 ## Cite
 
