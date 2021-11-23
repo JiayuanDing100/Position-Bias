@@ -54,7 +54,8 @@ Next 7 Clauses |  0.13\% |
 Next 8 Clauses |  0.26\% |
 Next 12 Clauses |  0.13\% |
 
-- **clause_keywords_emotion_rewrite_regularized.txt (Based on the principle of not changing original semantic intention, we rewrite sentences and adjust the position of emotional cause clauses in order to make the position distribution more balanced. We keep the same size of this dataset with original one.)**:
+- **clause_keywords_emotion_rewrite_regularized.txt (same size with original datatset and not changing original semantics)**
+- (Based on the principle of not changing original semantic intention, we rewrite sentences and adjust the position of emotional cause clauses in order to make the position distribution more balanced. We keep the same size of this dataset with original one.):
 
 |Position|Percentage|
 |:----|:--|
